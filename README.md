@@ -19,6 +19,6 @@ This project builds a neural network to analyze Yelp customer reviews and predic
 - Keras
 
 ## Full Report
-To explore the full analysis, including code and key takeaways, view the complete Jupyter Notebook.
+To explore the full analysis, including code and key takeaways, [view the complete Jupyter Notebook](./Sentiment%20Analysis.ipynb).
 
-You can also read the formal write-up, which outlines the steps taken in the analysis, from data preparation to model evaluation.
+You can also read the formal write-up here.
